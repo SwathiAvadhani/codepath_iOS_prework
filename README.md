@@ -8,9 +8,8 @@ This app allows us to introduce ourselves by accepting user inputs in various fo
 
 ### App Walk-through
 
-!walkthrough.gif
 
-<!-- <img src="!walkthrough.gif)" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="walkthrough.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 
 ### Required Features
